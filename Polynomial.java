@@ -18,7 +18,7 @@ public class Polynomial{
         }
     }
     
-    //try to make it better tomorrow
+    
     public Polynomial add(Polynomial polynomial) {
         if (polynomial == null) {
             return new Polynomial(this.coefficients);
