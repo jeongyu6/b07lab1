@@ -21,6 +21,7 @@ Saving the polynomial to a text file in a readable format.
 The class contains:
    double[] coefficients: Array of non-zero coefficients.
    int[] exponents: Array of corresponding exponents.
+
 2.Constructor
 
 Polynomial(double[] coefficients, int[] exponents): Initializes a polynomial from given coefficients and exponents.
